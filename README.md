@@ -11,6 +11,7 @@ Over on the FFG official forum you can find the [master list](https://community.
 * [Discord Dice Roller Bot](https://community.fantasyflightgames.com/topic/253080-discord-genesys-assistant-bot-dice-roller-story-point-character-tracker-initiative-tracker/)
 * [SkyJedi's Web Dice Roller](https://genesys.skyjedi.com/)
 * [Anydice Probabilities](http://anydice.com/program/dd67)
+* [bojjenclon's dice roller](https://bojjenclon.com/tabletop/genesys/roller/)
 
 ### Templates
 * [LaTeX package](https://github.com/c-bec-k/GenesysRPG)
